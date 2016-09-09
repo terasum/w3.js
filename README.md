@@ -22,5 +22,12 @@ console.log(data);
 
 //'0x65a0d493000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000036162630000000000000000000000000000000000000000000000000000000000'
 
+// then you can use this output code to run EVM smart contract code.
+
+// NOTE this w3.js not support the address param which web3.js implements 
 
 ```
+
+## More Info:
+
+[web3.js](https://github.com/ethereum/web3.js/)
