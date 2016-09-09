@@ -1,7 +1,11 @@
 # w3.js 
 w3.js is a method_id and param interpretor of solidity abi
 
-## useage:
+## INSTALL:
+
+`npm install w3.js`
+
+## USEAGE:
 
 ```
 var SF = require('index.js');

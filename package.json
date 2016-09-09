@@ -1,6 +1,6 @@
 {
   "name": "w3.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "w3.js is a module which encode the solidity method inspried by web3.js",
   "main": "index.js",
   "scripts": {
