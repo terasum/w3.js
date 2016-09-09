@@ -14,7 +14,7 @@
     "w3.js",
     "web3.js"
   ],
-  "author": "terasum",
+  "author": "terasum <terasum@163.com> (https://terasum.github.io)",
   "license": "LGPL-3.0",
   "dependencies": {
     "bignumber.js": "^2.4.0",

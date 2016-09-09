@@ -1,3 +1,4 @@
+#
 # Logs
 logs
 *.log
@@ -35,3 +36,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+.idea/jsLibraryMappings.xml
+.idea/libraries/
+.idea/vcs.xml
+.idea/w3.js.iml
