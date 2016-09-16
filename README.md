@@ -17,7 +17,7 @@ var abimethod = {
      outputs: [{name: 'd', type: 'string' }]
 };
 
-var sf = SF(abimethod);
+var sf = new SF(abimethod);
 
 
 // Note: this function's params should match with the abimethod input property defination.
