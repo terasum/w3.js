@@ -1,8 +1,8 @@
 {
   "name": "w3.js",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "w3.js is a module which encode the solidity method inspried by web3.js",
-  "main": "index.js",
+  "main": "w3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
