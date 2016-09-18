@@ -8,7 +8,7 @@ w3.js is a method_id and param interpretor of solidity abi
 ## USEAGE:
 
 ```
-var SF = require('index.js');
+var SF = require('w3.js');
 var abimethod = {
      name: 'myConstantMethod',
      type: 'function',
